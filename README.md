@@ -44,8 +44,4 @@ Agradecimientos:
     A la plataforma Coursera, por permitir a algunos aprendices ser becarios de sus diversos cursos afines
         con el proyecto.
     
-What the project does
-Why the project is useful
-How users can get started with the project
-Where users can get help with your project
-Who maintains and contributes to the project
+PROYECTO AÚN EN EJECUCIÓN, FASE DE ANÁLISIS - EN ESTE REPOSITORIO SE ENCONTRARÁ EL FRONTEND DEL PROYECTO.
